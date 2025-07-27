@@ -73,7 +73,7 @@ Led sessions, formed tech squads, and hyped code culture across campus!
 * 📧 [rea.sinha23b@iiitg.ac.in](mailto:rea.sinha23b@iiitg.ac.in)
 * 👁 [LinkedIn](http://www.linkedin.com/in/rea-sinha-a33a18356)
 * 🌐 [GitHub](https://github.com/sinharea)
-* 💻 [LeetCode](https://leetcode.com/u/sinharea/)
+* 💻 [LeetCode](https://leetcode.com/u/sinharea1008/)
 
 ---
 
