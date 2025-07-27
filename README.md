@@ -1,4 +1,4 @@
-<img src="https://github.com/USERNAME/REPO-NAME/blob/main/rea.png?raw=true" width="200" style="border-radius: 50%;" />
+
 ## Hi 👋, I'm Rea Sinha
 
 ### 🎓 B.Tech CSE @ IIIT Guwahati (2023–2027)
