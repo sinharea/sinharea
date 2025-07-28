@@ -69,7 +69,6 @@ Led sessions, formed tech squads, and hyped code culture across campus!
 
 ### 📚 Contact Me:
 
-* 📱 +91 8787230742
 * 📧 [rea.sinha23b@iiitg.ac.in](mailto:rea.sinha23b@iiitg.ac.in)
 * 👁 [LinkedIn](http://www.linkedin.com/in/rea-sinha-a33a18356)
 * 🌐 [GitHub](https://github.com/sinharea)
