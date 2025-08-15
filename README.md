@@ -3,9 +3,9 @@
 
 ### 🎓 B.Tech CSE @ IIIT Guwahati (2023–2027)
 
-### 🚀 Full-Stack Dev | ML/DL Enthusiast | Blockchain Explorer | Open Source Contributor
+### 🚀 ML/DL Enthusiast | Blockchain Explorer
 
-#### "Writing code that feels like art — breaking problems, building dreams."
+#### "Writing code that feels like art - breaking problems, building dreams."
 
 ---
 
@@ -20,10 +20,9 @@
 
 ### 📈 Stats that Speak:
 
-* ✅ Solved 300+ LeetCode problems (175+ Medium)
+* ✅ Solved 450+ LeetCode problems (250+ Medium)
 * 👮‍♀️ Selected for AlgoUniversity's Graph Camp
 * 🏆 Top projects: Doodle Classifier, Flappy Bird, Fake News + Deepfake Detector
-* ⚡ Always chasing 90%+ accuracy & 60+ FPS perfection
 
 ---
 
@@ -45,10 +44,10 @@ A full-stack ML-powered web tool to detect misinformation — from text to video
 
 ### 📚 Skills & Stack:
 
-* **Languages**: C, C++, Java, Python
-* **Frameworks/Tools**: NumPy, Pandas, Git, GitHub, Jupyter, VSCode, AWS
-* **Domains**: Machine Learning, Deep Learning, Blockchain, RPA
-* **Dev Tools**: Tailwind, React, MySQL, MongoDB, Postman
+* **Languages**: C, Java, Python
+* **Frameworks/Tools**: NumPy, Pandas, Git, GitHub, Jupyter, VSCode
+* **Domains**: Machine Learning, Blockchain, RPA
+* **Dev Tools**: MySQL
 
 ---
 
