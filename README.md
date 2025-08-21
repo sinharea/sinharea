@@ -36,7 +36,7 @@ Built a neural network from scratch using NumPy to classify hand-drawn sketches.
 
 Recreated Flappy Bird in Python + Pygame with smooth animations, gravity, and scoring. Responsive controls, 60 FPS, and 20ms latency.
 
-#### 🌐 **Fake News + Deepfake Detection Engine** ([GitHub]([https://github.com/sinharea/fake-news-detection]))
+#### 🌐 **Fake News + Deepfake Detection Engine** ([GitHub](https://github.com/sinharea/fake-news-detection))
 
 A full-stack ML-powered web tool to detect misinformation — from text to video. Custom models, CNNs, TF-IDF, Logistic Regression in one powerful pipeline.
 
